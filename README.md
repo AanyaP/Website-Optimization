@@ -1,5 +1,13 @@
 Website Optimization version 3.0 11/18/2015
 
+PROJECT LINK
+-------------------
+Check out the project by clicking the following link!
+
+http://aanyap.github.io/Website-Optimization/
+
+
+
 PROJECT DESCRIPTION
 --------------------
 A) To achieve PageSpeed score above 90
